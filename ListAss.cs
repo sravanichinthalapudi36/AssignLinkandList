@@ -30,7 +30,7 @@ namespace AssLink
             }
             public void Displayperson()
             {
-                Console.WriteLine("age :{0},firstname :{1},last name :{0},city:{0}", age,fname,lname,city);
+                Console.WriteLine("age :{0},firstname :{1},last name :{2},city:{3}", age,fname,lname,city);
                 
 
             }
